@@ -35,3 +35,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := OnePlus/OnePlus5T/OnePlus5T:10/QKQ1.191014.012/2010292059:user/release-keys
 
 TARGET_VENDOR := oneplus
+
+# Ship with Blur
+TARGET_ENABLE_BLUR := true
