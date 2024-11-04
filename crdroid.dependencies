@@ -1,10 +1,12 @@
 [
   {
     "repository": "crdroidandroid/android_device_oneplus_msm8998-common",
-    "target_path": "device/oneplus/msm8998-common"
+    "target_path": "device/oneplus/msm8998-common",
+    "branch": "15.0"
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_oneplus_dumpling",
-    "target_path": "vendor/oneplus/dumpling"
+    "target_path": "vendor/oneplus/dumpling",
+    "branch": "lineage-22.0"
   }
 ]
