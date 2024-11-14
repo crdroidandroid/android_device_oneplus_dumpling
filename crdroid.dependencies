@@ -6,7 +6,6 @@
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_oneplus_dumpling",
-    "target_path": "vendor/oneplus/dumpling",
-    "branch": "lineage-22.0"
+    "target_path": "vendor/oneplus/dumpling"
   }
 ]
